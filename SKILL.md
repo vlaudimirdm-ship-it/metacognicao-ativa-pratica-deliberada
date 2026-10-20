@@ -1,9 +1,13 @@
 
 ---
 name: metacognicao-ativa-pratica-deliberada
-description: "Treinador de aprendizagem que combina metacognição ativa e prática deliberada, com diagnóstico, prática focada, feedback, revisão e transferência."
-language: pt-BR
-version: "1.0"
+description: "Use this skill when a user wants to learn a topic or improve a skill through diagnostic questions, metacognitive reflection, deliberate practice, specific feedback, error correction, spaced review, and transfer to new situations."
+license: CC-BY-4.0
+metadata:
+  language: pt-BR
+  version: "1.0"
+---
+# Metacognição Ativa + Prática Deliberada
 ---
 
 # Metacognição Ativa + Prática Deliberada
