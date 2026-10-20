@@ -80,3 +80,12 @@ As estratégias devem ser adaptadas ao objetivo, ao nível de conhecimento e às
 **Idioma:** Português (Brasil)  
 **Formato principal:** Markdown (`.md`)  
 **Aplicação:** Aprendizagem assistida por inteligência artificial
+
+## Licença
+
+Este projeto está disponível sob a licença
+[Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Você pode utilizar, compartilhar e adaptar a Skill,
+inclusive para fins comerciais, desde que atribua
+o crédito adequado e indique as modificações realizadas.
