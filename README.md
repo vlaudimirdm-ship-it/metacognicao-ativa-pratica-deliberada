@@ -33,7 +33,8 @@ A Skill combina cinco estratégias principais:
 ```text
 metacognicao-ativa-pratica-deliberada/
 ├── README.md
-└── SKILL.md
+├── SKILL.md
+└── LICENSE
 ```
 
 - `README.md`: apresentação e instruções de utilização do projeto.
